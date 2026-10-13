@@ -1,11 +1,8 @@
-# ClassTrack
-A college class tracker
-
 <div align="center">
 
 # 🏠 ClassTrack
 
-**A college class tracker for hostel wardens.**
+**A college class tracker.**
 Pick a day and a time slot, and instantly see who has class and who doesn't, so you only check the rooms that matter.
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
@@ -83,26 +80,14 @@ The data lives in `data/hostel_timetable.xlsx`, on the **Timetable** sheet, with
 ## Quick start
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/bysakshikumari/ClassTrack.git
+cd ClassTrack
 pip install -r requirements.txt
 streamlit run app.py
 ```
 
 Then open the local address Streamlit prints in the terminal (usually http://localhost:8501).
 
-## Deploy for free on Streamlit Community Cloud
-
-1. Push this repository to GitHub.
-2. Go to [share.streamlit.io](https://share.streamlit.io) and click **New app**.
-3. Select your repository, branch `main`, and main file path `app.py`.
-4. Click **Deploy**, and share the link with the warden.
-
-## Updating students
-
-1. Edit `data/hostel_timetable.xlsx` to add, remove or change students.
-2. Replace the file in the GitHub repo with the same name and path.
-3. The app picks up the change after the redeploy. If it doesn't, open the app menu and choose **Reboot**.
 
 ## Project structure
 
@@ -142,5 +127,5 @@ Suggestions and pull requests are welcome. Open an issue to discuss what you'd l
 ---
 
 <div align="center">
-Built to make a warden's round a little easier. ⭐ Star the repo if it helped you.
+⭐ Star the repo if it helped you.
 </div>
