@@ -106,18 +106,13 @@ ClassTrack/
 - **pandas** for filtering and sorting
 - **openpyxl** for reading Excel files
 
-## A note on privacy
-
-The Excel file contains student names, room numbers and class timings, and the app has no login. If you publish this repository, **use dummy data in the public repo** (or keep the repo private) and restrict who can open the deployed app in Streamlit's sharing settings.
 
 ## Roadmap
 
-Ideas for future versions (not built yet):
+Ideas for future versions:
 
 - [ ] Mark classes as cancelled for a day, so those students drop out of the "In class" list
 - [ ] Approved leave and sick-student list
-- [ ] Shared check marks for several wardens
-- [ ] One-click daily report for the professor
 - [ ] Password protection
 
 ## Contributing
