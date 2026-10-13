@@ -4,7 +4,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="ClassTrack", page_icon="🏠", layout="centered")
+st.set_page_config(page_title="ClassTrack", layout="centered")
 
 FILE = Path(__file__).parent / "data" / "hostel_timetable.xlsx"
 DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri"]
@@ -66,7 +66,7 @@ slot = st.radio(
     "Time", range(8), index=cur, horizontal=True,
     format_func=lambda i: SLOTS[i],
 )
-st.caption(f"Slot {slot + 1}: {SLOTS[slot]} – {ENDS[slot]}  ·  lunch 12:30 – 1:00")
+st.caption(f"Slot {slot + 1}: {SLOTS[slot]} – {ENDS[slot]} ")
 
 c1, c2 = st.columns(2)
 q = c1.text_input("Search", placeholder="Name / room / course")
