@@ -5,7 +5,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-st.set_page_config(page_title="ClassTrack", layout="center")
+st.set_page_config(page_title="ClassTrack", layout="centered")
 
 FILE = Path(__file__).parent / "data" / "hostel_timetable.xlsx"
 DAYS = ["Mon", "Tue", "Wed", "Thu", "Fri"]
