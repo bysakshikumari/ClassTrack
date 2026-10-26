@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏠 ClassTrack
+# ClassTrack
 
 **A college class tracker.**
 Pick a day and a time slot, and instantly see who has class and who doesn't, so you only check the rooms that matter.
@@ -37,13 +37,13 @@ No more asking every student about their schedule, and no timetable images to de
 
 ## Features
 
-- 📅 **Day and time selector** for Mon to Fri, with 8 hourly slots (lunch break included)
-- ⏱️ **Auto-selects the current day and slot** in Indian time, and opens on Monday at weekends
-- 👥 **In class / No class lists** with live counts, sorted by room number
-- 🔎 **Search** by name, room or course, and filter by **year**
-- 📊 **Excel is the database**: edit the sheet, and the app updates when the file changes
-- 🛡️ **Friendly error messages** if the Excel file is missing a required column
-- 📱 **Works on a phone**, which is where wardens will actually use it
+- **Day and time selector** for Mon to Fri, with 8 hourly slots (lunch break included)
+- **Auto-selects the current day and slot** in Indian time, and opens on Monday at weekends
+- **In class / No class lists** with live counts, sorted by room number
+- **Search** by name, room or course, and filter by **year**
+- **Excel is the database**: edit the sheet, and the app updates when the file changes
+- **Friendly error messages** if the Excel file is missing a required column
+- **Works on a phone**, which is where wardens will actually use it
 
 ## How it works
 
