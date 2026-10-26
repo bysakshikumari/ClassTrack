@@ -10,7 +10,7 @@ Pick a day and a time slot, and instantly see who has class and who doesn't, so 
 ![pandas](https://img.shields.io/badge/pandas-data-150458?logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Data-Excel-217346?logo=microsoftexcel&logoColor=white)
 
-[**Live demo**]((https://class-track.streamlit.app/)) · [Report a bug](../../issues)
+([**Live demo**](https://class-track.streamlit.app/)) · [Report a bug](../../issues)
 
 <!-- Add a screenshot: save it as docs/screenshot.png, then uncomment the line below -->
 <!-- <img src="docs/screenshot.png" alt="ClassTrack screenshot" width="360"> -->
