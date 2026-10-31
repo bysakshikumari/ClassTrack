@@ -12,8 +12,10 @@ Pick a day and a time slot, and instantly see who has class and who doesn't, so 
 
 ([**Live demo**](https://class-track.streamlit.app/)) · [Report a bug](../../issues)
 
-<!-- Add a screenshot: save it as docs/screenshot.png, then uncomment the line below -->
-<!-- <img src="docs/screenshot.png" alt="ClassTrack screenshot" width="360"> -->
+
+
+<img width="580" height="360" alt="Screenshot 2026-10-30 220343" src="https://github.com/user-attachments/assets/bcfcdd59-5c8c-4f3e-a8ed-8daf52ebb54e" />
+
 
 </div>
 
